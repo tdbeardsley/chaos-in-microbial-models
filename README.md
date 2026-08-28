@@ -1,6 +1,6 @@
 # Chaos in Microbial Models
 
-This repo contains example code used to the generate the graphs in the supplementary materials of . 
+This repo contains example code used to the generate the graphs in the supplementary materials of Asymmetric interactions and feast–famine cycles drive chaos in microbial populations. 
 
 The file *parameter_collection.jl* contains the parameters used to generate the bifurcation diagrams that appear in the main text and supplemental material.
 
